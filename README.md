@@ -1,42 +1,28 @@
-# Welcome to My GitHub Pages Site
+# Welcome to the Very Official and Real MineRival github site
 
-![Main Image](https://via.placeholder.com/800x400)
+![Main Image](https://pufferfish.host/_next/static/images/minerival-655b5648c26959c1091903bf2cd09817.png.webp)
 
-Welcome to my personal GitHub Pages site! This is a simple, static site powered by GitHub Pages and built using Markdown. Below, you'll find sections with text, images, and file downloads. Feel free to explore!
+Welcome to the MineRival Leak site! MineRival's setup(s) will get leaked here!
+
+NOTE: If you want to contact me on behalf of ZyroFPS, ZyroLive, Noah Woodfine, or MineRival, contact me at pieuwu@outlook.com
 
 ---
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Projects](#projects)
-3. [Gallery](#gallery)
-4. [Downloads](#downloads)
-5. [Contact](#contact)
+2. [Gallery](#gallery)
+3. [Downloads](#downloads)
+4. [Legal](#legal)
 
 ---
 
 ## Introduction
-Hello! My name is [Your Name]. I am a [Your Profession] with a passion for [Your Passion]. This site showcases some of my work and offers resources for download. I hope you find it informative and useful.
-
----
-
-## Projects
-### Project 1: Awesome Project
-- **Description:** A brief description of what this project does and its purpose.
-- **Technologies:** List of technologies used.
-- **Link:** [Project Repository](https://github.com/yourusername/yourproject)
-- **Live Demo:** [Live Site](https://yourusername.github.io/yourproject)
-
-### Project 2: Another Cool Project
-- **Description:** A brief description of what this project does and its purpose.
-- **Technologies:** List of technologies used.
-- **Link:** [Project Repository](https://github.com/yourusername/yourproject)
-- **Live Demo:** [Live Site](https://yourusername.github.io/yourproject)
+Hello! My name is Pie. I worked for MineRival. In collaboration with a current MineRival developer, We'll be leaking all of MineRival. I hope you find it funny and useful.
 
 ---
 
 ## Gallery
-Here are some images showcasing my work and projects:
+Here are some images showcasing MineRival:
 
 ![Image 1](https://via.placeholder.com/300x200)
 *Image description 1*
@@ -50,23 +36,15 @@ Here are some images showcasing my work and projects:
 ---
 
 ## Downloads
-You can download various resources and files from this section:
+You can download various files from this section:
 
-- **Resource 1:** [Download File](https://github.com/yourusername/yourrepository/raw/main/resources/resource1.pdf)
-- **Resource 2:** [Download File](https://github.com/yourusername/yourrepository/raw/main/resources/resource2.zip)
-- **Resource 3:** [Download File](https://github.com/yourusername/yourrepository/raw/main/resources/resource3.docx)
-
+- **COMING SOON**
 ---
 
-## Contact
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+## Legal
+Feel free to reach out if you have any enforcable order by the court of Courts of Law of the United Kingdom.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email:** pieuwu@outlook.com
 
 ---
-
-## Footer
-Thank you for visiting my site! Be sure to check out my GitHub profile for more projects and updates.
 
