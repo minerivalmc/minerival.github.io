@@ -24,14 +24,12 @@ Hello! My name is Pie. I worked for MineRival. In collaboration with a current M
 ## Gallery
 Here are some images showcasing MineRival:
 
-![Image 1](https://via.placeholder.com/300x200)
-*Image description 1*
+![Image 1](https://media.discordapp.net/attachments/1270816765026238618/1270816850011492434/image.png?ex=66b513eb&is=66b3c26b&hm=22eafaf8d83d00a7095961dafbaeff000777b701e20e828b0d34894fdfef9f28&=&format=webp&quality=lossless)
+*Custom CoinShop plugin*
 
-![Image 2](https://via.placeholder.com/300x200)
-*Image description 2*
+![Image 2](https://media.discordapp.net/attachments/1270816765026238618/1270817309912731668/image.png?ex=66b51459&is=66b3c2d9&hm=d641975aaf00d620b87c7d4fefaaadc22c7bd2f0f17a2bbedaf82527c3ee9fe8&=&format=webp&quality=lossless)
+*Custom PlaytimeLevel plugin*
 
-![Image 3](https://via.placeholder.com/300x200)
-*Image description 3*
 
 ---
 
