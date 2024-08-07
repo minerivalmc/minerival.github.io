@@ -40,7 +40,7 @@ You can download various files from this section:
 ---
 
 ## Legal
-Feel free to reach out if you have any enforcable order by the court of Courts of Law of the United Kingdom.
+Feel free to reach out if you have any enforcable order by the Courts of Law of the United Kingdom.
 
 - **Email:** pieuwu@outlook.com
 
